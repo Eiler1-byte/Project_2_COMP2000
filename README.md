@@ -1,2 +1,2 @@
 # Project_2_COMP2000
-Practice Gui by creating the game of connect 4
+Create a graphical user interface (GUI) using the Java Swing library that will allow two humans to play the game.
